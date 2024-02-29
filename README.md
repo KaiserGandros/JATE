@@ -21,7 +21,7 @@ Just another text editor (J.A.T.E) is a progressive web application that runs bo
 
 ![Here is the service worker:](assets/service.png)
 
-![And the IndexDB database:](assets\ibd.PNG)
+![And the IndexDB database:](assets/ibd.PNG)
 
 ## Usage
 To allow the user to write code on a seperate browser interface while on/offline

@@ -5,6 +5,7 @@
 ## Description
 Just another text editor (J.A.T.E) is a progressive web application that runs both in the browser and is downloadable to be used for offline purposes. This web app uses a combined list of packages inorder to provide a in browser javascript writing experience that saves your progress. It uses indexedDB for a database, Workbox and a service worker.
 
+Here is the live deployed link on render: https://jate-5lhp.onrender.com
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
